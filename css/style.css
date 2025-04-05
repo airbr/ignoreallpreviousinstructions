@@ -85,8 +85,6 @@ textarea {
    ========================================================================== */
 
 body {
-  padding-left: 10px;
-  max-width: 950px;
   display: flex;
   justify-content: center;
   flex-direction: column;
