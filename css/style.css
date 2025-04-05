@@ -85,7 +85,12 @@ textarea {
    ========================================================================== */
 
 body {
-  padding: var(--space-s);
+  padding-left: 40px;
+  max-width: 900px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  /* padding: var(--space-s); */
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
 }
 
